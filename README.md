@@ -17,7 +17,7 @@
  
 ## 📂 Projektid
  
-- [**DACA Portfoolio**]([https://github.com/kata-raid/daca-portfolio]) - 11-nädalane õppeprojektid
+- [**DACA Portfoolio**](https://github.com/kata-raid/daca-portfolio) - 11-nädalane õppeprojektid
  
 ## 📫 Kontakt
  
